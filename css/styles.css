@@ -1,0 +1,21 @@
+h1 {
+  font: "helvetica", sans-serif;
+  color: #cc0000; }
+
+label {
+  margin-bottom: 1%;
+  padding-bottom: 1%;
+  border-radius: 5px;
+  color: #3333ff; }
+
+input {
+  margin-bottom: 1%;
+  padding-bottom: 1%;
+  border-radius: 5px;
+  color: #3333ff; }
+
+textarea {
+  margin-bottom: 1%;
+  padding-bottom: 1%;
+  border-radius: 5px;
+  color: #3333ff; }
